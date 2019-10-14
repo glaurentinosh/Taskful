@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Taskful</string>
+    <string name="footer">Tarefas = 0 : Urgentes = 0 : Concluídas = 0</string>
+    <string name="edit1">Nome da tarefa </string>
+    <string name="edit2">Descreva sua tarefa aqui </string>
+
+    <string-array name="tags">
+        <item>Trabalho</item>
+        <item>Escola</item>
+        <item>Família</item>
+        <item>Lazer</item>
+        <item>Saúde</item>
+        <item>Outros</item>
+
+    </string-array>
+</resources>
